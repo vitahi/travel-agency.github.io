@@ -1,0 +1,95 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/background.png);
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.hat {
+    text-align: center;
+    padding-bottom: 146px;
+}
+
+.content {
+    text-align: center;
+}
+
+.content1 {
+    color: white;
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 94px;
+    width: 1114px;
+    height: 192px;
+}
+
+.content2 {
+    color: white;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 44px;
+    padding-top: 83px;
+    width: 514px;
+    height: 104px;
+}
+
+form {
+    padding-top: 105px;
+}
+
+input {
+    color: #000000;
+    box-sizing: border-box;
+    width: 447px;
+    height: 64px;
+    background: #E9E9E9;
+    border: 4px solid #8D8D8D;
+    border-radius: 20px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 84.19%;
+    padding-left: 23px;
+}
+
+button {
+    box-sizing: border-box;
+    color: #FFFFFF;
+    background: #5B89CE;
+    border: 2px solid #476443;
+    border-radius: 25px;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 44px;
+    width: 352px;
+    height: 66px;
+    margin-top: 32px;
+}
+
+button:hover {
+    color: #5B89CE;
+    background: #FFFFFF;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    font-size: 38.5714px;
+    line-height: 45px;
+    margin-left: 80px;
+}
+
+a:hover {
+    color: blue;
+}
